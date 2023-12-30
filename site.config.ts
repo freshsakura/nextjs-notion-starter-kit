@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'test',
-  domain: 'https://accurate-house-35d.notion.site/test-be6e0620015f480e93bdf1b774a8f1cb?pvs=4',
+  domain: 'bigotter.cn',
   author: 'test',
 
   // open graph metadata (optional)
